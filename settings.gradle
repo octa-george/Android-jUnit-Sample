@@ -1,0 +1,1 @@
+include ':mockito-sample', ':junit-sample'
